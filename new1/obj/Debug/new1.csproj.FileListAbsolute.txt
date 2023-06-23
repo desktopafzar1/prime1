@@ -1,0 +1,7 @@
+C:\new1\new1\bin\Debug\new1.exe.config
+C:\new1\new1\bin\Debug\new1.exe
+C:\new1\new1\bin\Debug\new1.pdb
+C:\new1\new1\obj\Debug\new1.csproj.AssemblyReference.cache
+C:\new1\new1\obj\Debug\new1.csproj.CoreCompileInputs.cache
+C:\new1\new1\obj\Debug\new1.exe
+C:\new1\new1\obj\Debug\new1.pdb
